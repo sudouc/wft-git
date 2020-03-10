@@ -1,5 +1,5 @@
-# Your turn
-Copy the sampleperson directory and make it your own!  
+# People who completed WTF Git?!
+Your turn to follow along and see how Git can work in action! Follow the instructions to get your page listed!
 
-Then add your link below:  
-[sampleperson](/members/sampleperson)
+## Pages:  
+[Andras Arato](/members/AndrasArato)
