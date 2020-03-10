@@ -1,2 +1,2 @@
-# WT:octocat: is Git?!  
+# WT ![](https://github.githubassets.com/images/icons/emoji/octocat.png) is Git?!  
 Git makes managing your projects and coursework much easier and is an essential skill in the software engineering industry. This repository lets you play with pushing and pulling to and from Git.
