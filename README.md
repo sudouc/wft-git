@@ -6,7 +6,7 @@ Git makes managing your projects and coursework much easier and is an essential 
 
 2) Make a copy of the members\sampleperson directory and fill in a little about yourself. Take a look at the [markdown cheatsheet](/cheatsheet) if your not familiar with markdown  
 
-3) Add a link to your page in the members.md file  
+3) Add a link to your page in the [members.md](/members) file  
 
 4) Make a pull request  
 
