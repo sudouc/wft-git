@@ -1,2 +1,2 @@
-# wft-git
-Repository to demonstrate pushing to and pulling from Git 
+# WTF is Git?!  
+Git makes managing your projects and coursework much easier and is an essential skill in the software engineering industry. This repository lets you play with pushing and pulling to and from Git.
