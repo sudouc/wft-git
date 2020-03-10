@@ -1,4 +1,4 @@
-# WT ![](https://github.githubassets.com/images/icons/emoji/octocat.png =25x) is Git?!  
+# WT ![](https://github.githubassets.com/images/icons/emoji/octocat.png) is Git?!  
 ![](/assets/wtf-git-hero.jpg)  
 Git makes managing your projects and coursework much easier and is an essential skill in the software engineering industry. This repository lets you play with pushing and pulling to and from Git.  
 
@@ -16,5 +16,3 @@ Git makes managing your projects and coursework much easier and is an essential 
 6) Make a pull request  
 
 7) Watch your new page go live!
-
-![](/assets/logo_black.png =100x)
