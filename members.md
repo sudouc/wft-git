@@ -4,7 +4,7 @@ Your turn to follow along and see how Git can work in action! Follow the instruc
 ## Pages:  
 [Andras Arato](/members/AndrasArato)  
 [James Stow](/members/JamesStow)  
-[index.md](/members/Steph)  
+[Steph](/members/Steph)  
 [Andras Arato](/members/AndrasArato)  
 [Pranay Joshi](/members/PranayJoshi)  
 [Andras Arato](/members/AndrasArato)  
