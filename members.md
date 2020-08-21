@@ -3,5 +3,9 @@ Your turn to follow along and see how Git can work in action! Follow the instruc
 
 ## Pages:  
 [Andras Arato](/members/AndrasArato)  
+[fadelerwin](/members/fadelerwin)  
+
 [James Stow](/members/JamesStow)
+[Jed Hodson](/members/JedHodson)
+[Divya](/members/Divya)
 [Fardin Jafrul](/members/FardinJafrul)
