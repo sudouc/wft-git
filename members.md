@@ -3,4 +3,4 @@ Your turn to follow along and see how Git can work in action! Follow the instruc
 
 ## Pages:  
 [Andras Arato](/members/AndrasArato)  
-[Git2](/wtf-git/index.md)  
+[Git2](/index.md)  
