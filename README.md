@@ -20,3 +20,4 @@ Git makes managing your projects and coursework much easier and is an essential 
 
 ![](assets/git.gif)
 
+[Download Slides](https://unicanberraedu.sharepoint.com/:p:/s/Sudo-Executive/EZquKYs029BEm4zkG-veek0BlpxLQt9ojeJQmylmFZyXnQ?e=wa3hSX)
