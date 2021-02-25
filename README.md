@@ -8,15 +8,13 @@ Git makes managing your projects and coursework much easier and is an essential 
 
 2) Create a local clone of your fork
 
-3) Make a new folder in the members and create an index.md file there. Fill this in with a little about yourself. Take a look at the [markdown cheatsheet](/cheatsheet) if your not familiar with markdown  
+3) Create a new file in the "\_posts" folder, using the template as a guide. Fill this in with a little about yourself. Take a look at the [markdown cheatsheet](/cheatsheet) if your not familiar with markdown  
 
-4) Add a link to your page in the [members.md](/members) file  
+4) Commit and push your changes back to your fork  
 
-5) Commit and push your changes back to your fork  
+5) Make a pull request  
 
-6) Make a pull request  
-
-7) Watch your new page go live!
+6) Watch your new page go live! (hopefully)
 
 ![](assets/git.gif)
 
