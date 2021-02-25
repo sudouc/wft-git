@@ -1,9 +1,7 @@
 ## Wooh! Time for a pull request :shipit:  
 Before we can accept your pull request you need to make sure it meets all the following requirements:  
 
-- [ ] Made a new folder in the members directory with an index.md file (**no spaces in directory name!**)  
-- [ ] Filled in index.md with some unique content  
-- [ ] Added a link to your page in the *members.md* file  
+- [ ] Followed the guide to correctly create your member page
 Following not *strictly* required, but we'd really appreciate it :smile:
 - [ ] Signed up for Sudo membership over at [clubs.canberra.edu.au/Clubs/Sudo](https://clubs.canberra.edu.au/Clubs/Sudo)?  
 - [ ] Paid for membership over at [sudouc.getqpay.com](https://sudouc.getqpay.com)
