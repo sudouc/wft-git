@@ -8,7 +8,7 @@ Git makes managing your projects and coursework much easier and is an essential 
 
 2) Create a local clone of your fork
 
-3) Create a new file in the "\_posts" folder, using the template as a guide. Fill this in with a little about yourself. Take a look at the [markdown cheatsheet](/cheatsheet) if your not familiar with markdown  
+3) Create a new file in the "\_posts" folder, using the template as a guide. Fill this in with a little about yourself. Take a look at the [markdown cheatsheet](https://www.markdownguide.org/cheat-sheet/) if your not familiar with markdown  
 
 4) Commit and push your changes back to your fork  
 
