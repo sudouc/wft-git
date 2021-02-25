@@ -14,7 +14,7 @@ Git makes managing your projects and coursework much easier and is an essential 
 
 5) Make a pull request  
 
-6) Watch your new page go [live](wtf-git.sudouc.club)! (hopefully)
+6) Watch your new page go [live](http://wtf-git.sudouc.club)! (hopefully)
 
 ![](assets/git.gif)
 
