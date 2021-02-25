@@ -1,8 +1,12 @@
 ---
 layout: post
 title:  "Template Member"
-date:   2021-02-25 15:30:18 +1100
-categories: jekyll update
+date:   2021-02-25
+categories: member
+tags: member
+author: Alice & Bob
 ---
 
-Test
+I'm ___,
+
+I study a ___.
